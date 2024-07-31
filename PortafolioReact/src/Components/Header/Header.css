@@ -1,0 +1,6 @@
+@media (max-width: 700px) {
+    #ocultar {
+      display: none; /* Oculta  en pantallas menores a 480px */
+    }
+  }
+ 
